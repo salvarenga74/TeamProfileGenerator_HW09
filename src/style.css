@@ -1,0 +1,11 @@
+#titleBanner{
+    background-color: rgb(218, 71, 71);
+    color:white;
+    text-align: center;
+    padding:34px;
+}
+
+.featuredName{
+    background-color:rgb(21, 116, 233);
+    color: white;
+}
