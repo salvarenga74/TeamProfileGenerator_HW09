@@ -9,7 +9,7 @@ In this application I created a Node.js command-line application that can be use
 
 This application also includes testing parameters for each employee and will ensure proper information is being inputted into the respective fields.
 
-Watch a Walkthrough Video: [Work Team Generator Video](https://drive.google.com/file/d/1if3SscecNppH3zyVHMXyFa_naWKuoHVu/view)
+Watch a Walkthrough Video: [Work Team Generator Video](https://drive.google.com/file/d/1TcbwP6ZC5O0PR3ynBwBBnCP-X6nfTmUL/view?usp=sharing)
 
 <summary>Table of Contents</summary>
   <ol>
